@@ -1,1 +1,2 @@
-# Java-Course-in-Intelij-Idea
+#  :coffee: Java-Course-in-Intelij-Idea
+Fundementals of Java added...
